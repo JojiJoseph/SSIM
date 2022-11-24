@@ -3,5 +3,6 @@ Implementation of the paper `Image Quality Assessment: From Error Visibility to 
 
 ## TODO
  - [x] SSIM
- - [ ] Support windows
+ - [x] Support local windows
  - [ ] Support gaussian weights
+ - [ ] Speedup computation
